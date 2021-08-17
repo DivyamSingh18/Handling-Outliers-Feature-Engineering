@@ -4,7 +4,7 @@ Outliers are extreme values that fall a long way outside of the other observatio
 
 
 
-* In the following images, The data-points in the Purple region will be our outliers: <br><br>
+* In the following image, The data-points in the Purple region will be our outliers: <br><br>
 ![Outlier regions](https://user-images.githubusercontent.com/64833579/129659579-dae5a8a9-25cd-43bf-a02e-82cdb490092a.png)
 
 
